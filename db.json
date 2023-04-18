@@ -1,40 +1,40 @@
 {	
-	"bannerList" : [		
-		{
-		"id": 1,
-		"city_id": 1,
-		"cover": 'cover1',
-    "type": 1,
-    "value": 'value1',
-    "title": 'title1',
-    "from": 'from1',
-    "to": 'to1',
-    "extra_field":'extraField1',
-    "status":1,
-		},
-    {
-		"id": 2,
-		"city_id": 2,
-		"cover": 'cover2',
-    "type": 2,
-    "value": 'value2',
-    "title": 'title2',
-    "from": 'from2',
-    "to": 'to2',
-    "extra_field":'extraField2',
-    "status":1,
-		},
-    {
-		"id": 3,
-		"city_id": 3,
-		"cover": 'cover3',
-    "type": 3,
-    "value": 'value3',
-    "title": 'title3',
-    "from": 'from3',
-    "to": 'to3',
-    "extra_field":'extraField3',
-    "status":1,
-		}
-  ]
+"bannerList": [
+      {
+        "id": 0,
+        "cityId": 0,
+        "cover": "http://placehold.it/32x32",
+        "type": 0,
+        "value": "strawberry",
+        "title": "banana",
+        "from": "apple",
+        "to": "apple",
+        "extra_field": "strawberry",
+        "status": 0
+      },
+      {
+        "id": 1,
+        "cityId": 1,
+        "cover": "http://placehold.it/32x32",
+        "type": 1,
+        "value": "apple",
+        "title": "banana",
+        "from": "apple",
+        "to": "banana",
+        "extra_field": "strawberry",
+        "status": 1
+      },
+      {
+        "id": 2,
+        "cityId": 2,
+        "cover": "http://placehold.it/32x32",
+        "type": 2,
+        "value": "banana",
+        "title": "strawberry",
+        "from": "apple",
+        "to": "strawberry",
+        "extra_field": "banana",
+        "status": 2
+      }
+    ]
 }
