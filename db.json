@@ -1,40 +1,65 @@
 {	
-"bannerList": [
-      {
-        "id": 0,
-        "cityId": 0,
-        "cover": "http://placehold.it/32x32",
-        "type": 0,
-        "value": "strawberry",
-        "title": "banana",
-        "from": "apple",
-        "to": "apple",
-        "extra_field": "strawberry",
-        "status": 0
-      },
-      {
-        "id": 1,
-        "cityId": 1,
-        "cover": "http://placehold.it/32x32",
-        "type": 1,
-        "value": "apple",
-        "title": "banana",
-        "from": "apple",
-        "to": "banana",
-        "extra_field": "strawberry",
-        "status": 1
-      },
-      {
-        "id": 2,
-        "cityId": 2,
-        "cover": "http://placehold.it/32x32",
-        "type": 2,
-        "value": "banana",
-        "title": "strawberry",
-        "from": "apple",
-        "to": "strawberry",
-        "extra_field": "banana",
-        "status": 2
-      }
-    ]
+"allProductCategories": [
+            {
+              "id": 1,
+              "name": "Thirteen-lined squirrel",
+              "cover": "http://dummyimage.com/100x100.png/5fa2dd/ffffff",
+              "extra_field": "morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl",
+              "status": 1
+            }, {
+              "id": 2,
+              "name": "Eastern diamondback rattlesnake",
+              "cover": "http://dummyimage.com/100x100.png/ff4444/ffffff",
+              "extra_field": "pretium quis lectus suspendisse potenti in eleifend quam a odio in",
+              "status": 1
+            }, {
+              "id": 3,
+              "name": "Woolly-necked stork",
+              "cover": "http://dummyimage.com/100x100.png/cc0000/ffffff",
+              "extra_field": "in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec",
+              "status": 1
+            }, {
+              "id": 4,
+              "name": "White-faced whistling duck",
+              "cover": "http://dummyimage.com/100x100.png/5fa2dd/ffffff",
+              "extra_field": "elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam",
+              "status": 1
+            }, {
+              "id": 5,
+              "name": "Egret, cattle",
+              "cover": "http://dummyimage.com/100x100.png/ff4444/ffffff",
+              "extra_field": "donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam",
+              "status": 1
+            }, {
+              "id": 6,
+              "name": "Black-backed magpie",
+              "cover": "http://dummyimage.com/100x100.png/ff4444/ffffff",
+              "extra_field": "quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa",
+              "status": 1
+            }, {
+              "id": 7,
+              "name": "Red-billed buffalo weaver",
+              "cover": "http://dummyimage.com/100x100.png/ff4444/ffffff",
+              "extra_field": "purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor",
+              "status": 1
+            }, {
+              "id": 8,
+              "name": "Common eland",
+              "cover": "http://dummyimage.com/100x100.png/ff4444/ffffff",
+              "extra_field": "adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante",
+              "status": 1
+            }, {
+              "id": 9,
+              "name": "Fork-tailed drongo",
+              "cover": "http://dummyimage.com/100x100.png/ff4444/ffffff",
+              "extra_field": "sem duis aliquam convallis nunc proin at turpis a pede posuere",
+              "status": 1
+            }, {
+              "id": 10,
+              "name": "Toucan, white-throated",
+              "cover": "http://dummyimage.com/100x100.png/cc0000/ffffff",
+              "extra_field": "id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat",
+              "status": 1
+            }
+      ]
 }
